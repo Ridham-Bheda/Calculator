@@ -1,6 +1,6 @@
 # Calculator
 <!-- Language used -->
-**Mini Calculator Using HTML, CSS & Javascript **
+**Mini Calculator Using HTML, CSS & Javascript**
 
 <!-- Owner -->
 Ridham Bheda
